@@ -1,3 +1,5 @@
+# TODO 修改成sproto版本
+
 # gonet/2 unity 客户端网络库
 
 1. 新建unity project
